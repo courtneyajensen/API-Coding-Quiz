@@ -1,0 +1,11 @@
+node_modules/
+
+.env
+
+DEFAULTREADME.node_modules
+
+# package_lock.json
+
+# .DS_Store/
+
+# .env
